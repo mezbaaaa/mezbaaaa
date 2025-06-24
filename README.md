@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋 What's Up?</h1>
+<h1 align="center">Hey folks!👋 What's Up?</h1>
 <h3 align="center">i'm a mern stack dev — learning, building, and trying to get better every day 🧠</h3>
 
 <p align="center">
