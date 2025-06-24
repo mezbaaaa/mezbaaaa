@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋 What's Up?</h1>
-<h3 align="center">I'm Mezba — A Full Stack Developer building modern, responsive, and scalable web applications with the MERN stack.</h3>
+<h3 align="center">i'm a mern stack dev — learning, building, and trying to get better every day 🧠</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=500&lines=Full+Stack+Web+Developer;MERN+Stack+Enthusiast;Passionate+about+clean+UI+%26+UX;Always+learning+and+building" alt="Typing SVG" />
@@ -7,7 +7,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 tools i’m using right now
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express,mongodb,firebase" height="60" alt="Tech Stack Icons"/>
@@ -15,7 +15,7 @@
 
 ---
 
-## 🌍 Connect With Me
+## 🌐 let’s connect
 
 <div align="center">
   <a href="https://www.linkedin.com/in/mezbaaaa/" target="_blank">
@@ -34,17 +34,16 @@
 
 ---
 
-## 📈 GitHub Stats
-
+## 📊 little dev progress
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=mezbaaaa&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=mezbaaaa&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://streak-stats.demolab.com?user=mezbaaaa&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
+  <img src="https://github-profile-trophy.vercel.app?username=mezbaaaa&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" />
 </div>
 
 ---
 
-## 🍕 Contribution Graph
+## 🍃 recent contributions
 
 <p align="center">
   <picture>
