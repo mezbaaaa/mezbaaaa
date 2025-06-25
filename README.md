@@ -60,6 +60,10 @@
   />
 </p>
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=mezbaaaa&label=Profile%20views&color=7AA2F7&style=flat-square" alt="mezbaaaa" />
+</p>
+
 ---
 
 ## 🍃 recent contributions
