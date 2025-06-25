@@ -21,7 +21,7 @@
 ## 💻 tools i’m using right now
 
 <p  align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express,mongodb,firebase" height="60" alt="Tech Stack Icons"/>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express,mongodb,firebase,python" height="60" alt="Tech Stack Icons"/>
 </p>
 
 ---
