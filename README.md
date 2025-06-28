@@ -19,7 +19,7 @@
 ## 💻 tools i’m using right now
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express,mongodb,firebase,git" height="60" alt="Tech Stack Icons"/>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express,mongodb,firebase,git,reactrouter" height="60" alt="Tech Stack Icons"/>
 </p>
 
 ---
@@ -46,10 +46,21 @@
 ## 📊 little dev progress
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=mezbaaaa&show_icons=true&theme=tokyonight" 
-    alt="mezbaaaa's GitHub stats"
-  />
+  <span>
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=mezbaaaa&show_icons=true&theme=tokyonight&hide_border=true" 
+      alt="GitHub Stats"
+      height="200"
+    />
+  </span>
+  <span style="display:inline-block; width: 30px;"></span>
+  <span>
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=mezbaaaa&layout=compact&theme=tokyonight&count_private=true&hide_border=true"
+      alt="Top Languages"
+      height="150"
+    />
+  </span>
 </p>
 
 <p align="center">
@@ -61,7 +72,7 @@
 </p>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=mezbaaaa&label=Profile%20views&color=7AA2F7&style=flat-square" alt="mezbaaaa" />
+  <img src="https://komarev.com/ghpvc/?username=mezbaaaa&label=Profile%20views&color=7AA2F7&style=flat-square" alt="profile view" />
 </p>
 
 ---
