@@ -44,7 +44,6 @@
   </a>
 </p>
 
-
 ---
 
 ## 📊 little dev progress
@@ -67,7 +66,7 @@
   </span>
 </p>
 
-<p align="center">
+<p align="center" >
   <img 
     src="https://github-profile-trophy.vercel.app/?username=mezbaaaa&theme=tokyonight&margin-w=10&margin-h=10&no-bg=false&no-frame=false"
     alt="GitHub Trophies"
@@ -75,8 +74,11 @@
   />
 </p>
 
-<p align="left">
+<p align="center" style="display: flex; gap: 15px;">
   <img src="https://komarev.com/ghpvc/?username=mezbaaaa&label=Profile%20views&color=7AA2F7&style=flat-square" alt="profile view" />
+  <a href="https://wakatime.com/@11aa6087-10af-4578-a4a5-8ed4126c463b">
+    <img src="https://wakatime.com/badge/user/11aa6087-10af-4578-a4a5-8ed4126c463b.svg" alt="Total time coded since Jun 28 2025" />
+  </a>
 </p>
 
 ---
