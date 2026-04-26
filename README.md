@@ -36,9 +36,6 @@
   <a href="mailto:mezbaaaa@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="25" />
   </a>
-  <a href="https://dev.to/mezbaaaa" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&style=for-the-badge" height="25" />
-  </a>
   <a href="https://discord.com/users/mezbaaaa" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="25" />
   </a>
