@@ -80,6 +80,12 @@
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mezbaaaa&theme=react-dark&area=true" />
+</p
+  
+---
+
 ## 🍃 recent contributions
 
 <p align="center">
