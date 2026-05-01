@@ -1,10 +1,8 @@
 <p align="center">
-  <a href="https://git.io/typing-svg" target="_blank" rel="noopener noreferrer">
-    <img src="https://readme-typing-svg.demolab.com?font=Caveat+Brush&weight=800&size=56&pause=1000&multiline=true&repeat=false&random=true&width=700&height=100&lines=hey+I%27m+Mezba" alt="Typing SVG" />
-  </a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=5BCDEC&center=true&vCenter=true&width=440&height=60&lines=hi+i'm+mezba" alt="Typing SVG" /></a>
 </p>
 
-<h3 align="center">i'm a MERN Stack dev — learning, building, and trying to get better every day 🧠</h3>
+<h3 align="center">i'm a MERN Stack dev — learning, building, and trying to get better every day </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=500&color=FEC260&lines=Full+Stack+Web+Developer;MERN+Stack+Enthusiast;Passionate+about+clean+UI+%26+UX;Always+learning+and+building;Based+in+Bangladesh" alt="Typing SVG" />
